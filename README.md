@@ -9,8 +9,7 @@ pairs for two synthetic validation cases:
 - **Fracture:** a discontinuous crack-opening displacement field.
 
 本项目用于完整复现 C2F Hash-DIC 的 Star 与 Fracture 两组虚拟实验。仓库包含
-复现代码、参考图像、变形图像以及计算/理论位移场图，不包含论文、NPZ 位移数据
-或 CSV 结果表。
+复现代码、参考图像、变形图像以及计算/理论位移场图。
 
 ## Contents
 
