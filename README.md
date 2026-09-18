@@ -1,4 +1,4 @@
-# C2F Hash-DIC reproducibility
+# C2F Hash-DIC
 
 This repository provides a compact reproduction package for **C2F Hash-DIC**,
 a coarse-to-fine digital image correlation method based on multiresolution hash
